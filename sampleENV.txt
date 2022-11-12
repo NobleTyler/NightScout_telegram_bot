@@ -1,0 +1,3 @@
+TELEGRAM_API_KEY='insert telegram API key here'
+NIGHTSCOUT_SECRET=
+NIGHTSCOUT_URI=
